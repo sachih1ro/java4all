@@ -6,7 +6,7 @@
 import java.util.Scanner;
 
 //here we start
-public class Main {
+public class DecideBuy {
 
     //Function to decide whether to buy individual (3) or combo products based on final cost
     public static String decideBuy(double priceP1, double priceP2, double priceP3, double pricePCombo){
