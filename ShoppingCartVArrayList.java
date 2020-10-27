@@ -1,5 +1,3 @@
-package com.shoppingcartvarray;
-
 //Example: Online Shopping Cart - Version: working with ArrayList
 //
 //by @sachi_h1ro (Elias Camilo Cabarcas Carreño)
