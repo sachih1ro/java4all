@@ -126,18 +126,13 @@ public class StudentManagementSystem {
                 default: //Not valid command case
                     System.out.println("Insert a valid command.");
                     break;
-
             }
-
-
         }
-
     }
 
 
     public static void main(String[] args) {
-
         executeSMS();
-
     }
+
 }
