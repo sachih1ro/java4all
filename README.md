@@ -1,4 +1,4 @@
 # java4all
 A lot of random stuff in java
 
-Hola, siéntete libre de usar los códigos de esta carpeta para lo que desees (siempre y cuando respetes los términos y condiciones de la licencia c:).
+Hi, feel you free to use these scripts for whatever you want, as long as you respect the terms and conditions of the license c:
